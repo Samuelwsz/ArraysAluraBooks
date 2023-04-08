@@ -1,0 +1,1 @@
+<p>Durante este curso, foram apresentados diversos métodos de arrays do JavaScript que foram aplicados de maneira prática em um projeto do AluraBooks, permitindo assim uma compreensão mais completa e efetiva das funcionalidades desses métodos.</p>
